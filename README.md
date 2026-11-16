@@ -1,5 +1,7 @@
 # Ledgerly
 
+[![CI](https://github.com/rowian7/ledgerly/actions/workflows/ci.yml/badge.svg)](https://github.com/rowian7/ledgerly/actions/workflows/ci.yml)
+
 A personal finance tracker. Log income and expenses, see where your money goes each month, and export your data as CSV.
 
 Built with **Python, FastAPI, SQLAlchemy 2.0 and Pydantic v2** on the backend and a dependency-free **vanilla JavaScript** frontend with Chart.js.
